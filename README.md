@@ -1,56 +1,65 @@
 # Hi, I'm Ehsan Ali 👋
 
-### Full Stack Web Developer
-
-Building scalable web applications with modern JavaScript technologies.
+**Full Stack Web Developer**  
+Building fast, scalable, and user-friendly web applications with modern JavaScript technologies.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mysql,mongodb,git,github" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 💎 Humraah Collections
-Full-stack jewelry ecommerce platform with admin dashboard, RBAC, and VPS deployment.
-
-### 🏭 Suak Enterprises
-ERP-style business management system for inventory, invoicing, and role-based operations.
+**Core Expertise:**  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VPS Deployment
 
 ---
 
-## 💼 Experience
+### 🚀 Featured Projects
 
-### 👨‍💻 Freelance Full Stack Developer
-- Delivered production-ready web applications
-- Managed complete development lifecycle
-- Deployed and maintained VPS-hosted systems
+#### 💎 [Humraah Collections](https://www.orynotech.com)  
+Full-stack jewelry e-commerce platform featuring:
+- Modern, responsive storefront
+- Admin dashboard with analytics
+- Role-Based Access Control (RBAC)
+- Secure payment integration
+- Deployed on VPS
 
-### 🚀 Stackup Solutions (Intern)
-- Built REST APIs with Node.js & Express
-- Implemented JWT Authentication
-- Worked with MySQL & Sequelize
-- Collaborated using Git workflows
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ehsanli01&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsanli01&layout=compact)
+**Tech:** Next.js • TypeScript • Tailwind • Node.js • MongoDB
 
 ---
 
-## 🌐 Connect With Me
+#### 🏭 [Suak Enterprises](https://suak-enterprises.orynotech.com)
+ERP-style business management system designed for small-medium enterprises.
 
-[🌍 Portfolio](https://www.orynotech.com) •
-[💼 LinkedIn](https://linkedin.com/in/ehsanali01) •
-[🐙 GitHub](https://github.com/Ehsanli01)
+- Real-time inventory tracking
+- Invoicing & billing system
+- Multi-role user management
+- Dashboard analytics
+
+**Tech:** React • Node.js • Express • MySQL
 
 ---
-⭐ Open to Junior React, MERN, and Full Stack Developer opportunities.
+
+### 🌐 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.orynotech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsanali01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ehsanli01)
+
+---
+
+### 💼 Open to Opportunities
+
+**Actively seeking Junior / Mid-level roles in:**
+- React & Next.js Development
+- MERN Stack Projects
+- Full Stack Web Development
+
+---
+
+*Passionate about clean code, great user experiences, and delivering production-ready applications.*
